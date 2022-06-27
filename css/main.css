@@ -205,7 +205,7 @@ footer span {
 
  @media (min-width : 768px )
 {
-	}
+
 	
 	.bottom-section{
 		display: flex;
@@ -231,11 +231,13 @@ footer span {
 	
 	}
 
-
+}
 
 
 /*desktop min- width 1200px */
-@media (min-width: 1200px) {
+@media (min-width: 1200px) 
+
+{
 	
 	header{
 		padding: 50px 0px 10px 0px;
@@ -263,4 +265,5 @@ footer span {
 		padding-top: 10px;
 		
 	}
-} 
+
+}
